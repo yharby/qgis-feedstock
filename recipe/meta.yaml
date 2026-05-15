@@ -17,9 +17,10 @@ source:
     - 0003-workaround-multi-pyqt5.patch
     - 0005-check-locks-not-destroyed.patch
     - 0006-use-entrypoints.patch
+    - 0007-gdal-3-13-compat.patch
 
 build:
-  number: 0
+  number: 1
   # pyproj no longer supports py310
   # Segfault on import with OSX, removing for now.
   # hopefully someone who cares abount OSX will step forward
