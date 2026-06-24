@@ -73,7 +73,7 @@ requirements:
     - qtwebkit
     - pyqtwebkit
     - qscintilla2
-    - qca h71e8f01_0 # Use Qt5 build
+    - qca
     - qjson
     - qwt <6.3.0
     - qtkeychain
@@ -122,7 +122,7 @@ requirements:
     - pyqt5-sip
     - qtwebkit
     - qscintilla2
-    - qca h71e8f01_0 # Use Qt5 build
+    - qca
     - qjson
     - qwt <6.3.0
     - qtkeychain
